@@ -17,7 +17,7 @@ global.anticall = false
 
 
 global.SESSION_ID = process.env.SESSION_ID || "taira_tech-f99FCaCZ#UUNW8-Ug7JI60PYdJWUfHCprLuLJIUE-0uoSjdWlB3I"
-global.Owner = ["2349151864541"]; //like 2347080968564 
+global.Owner = ["916001736850"]; //like 2347080968564 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
